@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Impactum",
+			"path": "."
+		},
+		{
+			"name": "assets",
+			"path": "../../Desktop/impactum/assets"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679530148772",
+    "project_id": "impactum-922ee",
+    "storage_bucket": "impactum-922ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679530148772:android:5606c4ad051d816465c731",
+        "android_client_info": {
+          "package_name": "com.impactum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcpR197IKyC-u98ovMltoO7qX0t3xAVkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
